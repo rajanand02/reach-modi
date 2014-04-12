@@ -733,4 +733,5 @@ hr {
     }
     .tile-inner{
       background-size: 100% !important;
+      background-repeat: round !important;
     }
