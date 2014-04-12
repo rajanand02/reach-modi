@@ -731,3 +731,6 @@ hr {
     .share{
       margin-top: 10px;
     }
+    .tile-inner{
+      background-size: 100% !important;
+    }
