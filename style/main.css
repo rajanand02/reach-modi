@@ -736,3 +736,17 @@ hr {
       background-repeat: round !important;
     }
 
+    .mobile-app{
+      margin-top: -33px;
+      display: inline-block;
+      background: #8f7a66;
+      border-radius: 3px;
+      padding: 0 18px;
+      text-decoration: none;
+      color: #f9f6f2;
+      height: 35px;
+      line-height: 38px;
+      display: block;
+      text-align: center;
+      float: right; 
+  }
