@@ -16,7 +16,7 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 62px;
+  font-size: 35px;
   font-weight: bold;
   margin: 0;
   display: block;
@@ -55,7 +55,7 @@ h1.title {
   display: inline-block;
   background: #bbada0;
   padding: 13px 23px;
-  font-size: 18px;
+  font-size: 12px;
   height: 25px;
   line-height: 47px;
   font-weight: bold;
@@ -111,8 +111,8 @@ strong.important {
 hr {
   border: none;
   border-bottom: 1px solid #d8d4d0;
-  margin-top: 20px;
-  margin-bottom: 30px; }
+  margin-top: 10px;
+  margin-bottom: 10px; }
 
 .container {
   width: 500px;
@@ -483,10 +483,13 @@ hr {
 .game-intro {
   float: left;
   line-height: 42px;
+  font-size:15px;
   margin-bottom: 0; }
 
 .restart-button {
   display: inline-block;
+  font-size: 12px;
+  margin-top: 5px;
   background: #8f7a66;
   border-radius: 3px;
   padding: 0 12px;
@@ -499,7 +502,8 @@ hr {
   float: right; }
 
 .game-explanation {
-  margin-top: 50px; }
+  font-size: 15px;
+  margin-top: 15px; }
 
 @media screen and (max-width: 520px) {
   html, body {
@@ -725,7 +729,8 @@ hr {
       margin-left: 50px;
     }
     .footer{
-      margin-left: 77px;
+      font-size: 13px;
+      
     }
     .share{
       margin-top: 10px;
